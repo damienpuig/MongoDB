@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongo", "Mongo\Mongo.csproj", "{658E6465-A19D-46B1-9AC6-518842197F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongo.Data", "Mongo.Data\Mongo.Data.csproj", "{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongo.DB", "Mongo.DB\Mongo.DB.csproj", "{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Debug|x86.ActiveCfg = Debug|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Debug|x86.Build.0 = Debug|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Release|Any CPU.ActiveCfg = Release|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Release|Mixed Platforms.Build.0 = Release|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Release|x86.ActiveCfg = Release|x86
+		{658E6465-A19D-46B1-9AC6-518842197F91}.Release|x86.Build.0 = Release|x86
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E41FFE8F-A97A-4AB4-AC9E-6B661DB7D3F2}.Release|x86.ActiveCfg = Release|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1CFB9557-A510-4DD4-BCC1-8A2C1DD95D02}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
